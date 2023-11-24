@@ -1,0 +1,1 @@
+La principale differenza tra HTTP ed HTTPS sta nel fatto che l' HTTPS usa protocolli assenti invece in HTTP per criptare le informazioni,rendendo cosi la connessione piu' sicura in piu' possiamo notare la necessita' di una richiesta ARP,non presente invece nell' HTTP
